@@ -10,8 +10,6 @@ $ ./scat [command-options] < [input] > [output]
 - when using multiple command option only the last one wins.
 
 ### Command line options: 
- -l to run using the C library getc/putc calls.
-use the command option -s to run using the read.
 
 | Option    | description                           |
 |:---------:|:-------------------------------------:|
